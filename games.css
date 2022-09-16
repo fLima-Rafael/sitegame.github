@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    
+    height: 35vh;
+    background-color: rgb(0, 0, 0);
+ 
+    
+    
+}
+   img{
+
+       padding-left: 635px;
+   }
+   body{
+     background-image: url(site\ games\ imagens/legend-of-zelda-wallpaper-1080p-inn-spb-ru-fkltnur4vyb631uq.jfif);
+      
+     background-repeat: no-repeat;
+
+     background-size: cover;
+ 
+    
+
+    
+
+     
+
+     
+   }
+  
+   .yes{
+       padding-left: 6px;
+       padding-bottom: 10px;
+       padding-top: 10px;
+   }
+
+   .yes:hover{
+       cursor: pointer;
+       transition: 0.5s all;
+       transform: scale(1.1);
+   }
+
